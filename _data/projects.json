@@ -1,27 +1,27 @@
 [
     {
         "image": "assets/img/projects/project1.jpg",
-        "title": "My Title 01",
-        "description": "My Description 01",
-        "link": "#"
+        "title": "웹스크래핑_1",
+        "description": "SBS뉴스 웹크롤링",
+        "link": "https://colab.research.google.com/drive/12o5d77OmXkXojOMvez_n_eM4hfQRnNi6?usp=sharing"
     },
     {
         "image": "assets/img/projects/project2.jpg",
-        "title": "My Title 02",
-        "description": "My Description 02",
-        "link": "#"
+        "title": "웹스크래핑_2",
+        "description": "국사편찬위원해 간행도서 웹크롤링",
+        "link": "https://colab.research.google.com/drive/1DJNRjHk_A1mdjsrQgdqy2bxU_h6IFlGr?usp=sharing"
     },
     {
         "image": "assets/img/projects/project3.jpg",
-        "title": "My Title 03",
-        "description": "My Description 03",
-        "link": "#"
+        "title": "웹스크래핑_3",
+        "description": "핸드볼 경기 결과 웹 크롤링",
+        "link": "https://drive.google.com/file/d/1DEcEwoGUbiPYWtKsZK_tRAZ7lMqG4W-K/view?usp=sharing"
     },
     {
         "image": "assets/img/projects/project4.jpg",
-        "title": "My Title 04",
-        "description": "My Description 04",
-        "link": "#"
+        "title": "웹스크래핑_4",
+        "description": "메이플 스토리 게시판 웹 크롤링",
+        "link": "https://colab.research.google.com/drive/1i7BI0cs5iV962JK9D3UInf3f8H1Ts9P5?authuser=1"
     },
     {
         "image": "assets/img/projects/project5.jpg",
