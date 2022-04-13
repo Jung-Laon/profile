@@ -1,38 +1,39 @@
 [
     {
         "image": "assets/img/projects/project1.jpg",
+        "title": "자기소개",
+        "description": "HTML, CSS로 간단하게 만든 자기소개 홈페이지",
+        "link": "https://jung-laon.github.io/my_info_test/"
+    },
+    {
+        "image": "assets/img/projects/project2.jpg",
+        "title": "이미지 & 비디오 포즈 추적",
+        "description": "손흥민, 기상케스터 바디포즈추척",
+        "link": "https://drive.google.com/file/d/1o1qEwFqWRm-vdQVqTkKMllhKc5wOoCr1/view?usp=sharing"
+    },
+    {
+        "image": "assets/img/projects/project3.jpg",
         "title": "웹스크래핑_1",
         "description": "SBS뉴스 웹크롤링",
         "link": "https://colab.research.google.com/drive/12o5d77OmXkXojOMvez_n_eM4hfQRnNi6?usp=sharing"
     },
     {
-        "image": "assets/img/projects/project2.jpg",
+        "image": "assets/img/projects/project4.jpg",
         "title": "웹스크래핑_2",
         "description": "국사편찬위원해 간행도서 웹크롤링",
         "link": "https://colab.research.google.com/drive/1DJNRjHk_A1mdjsrQgdqy2bxU_h6IFlGr?usp=sharing"
     },
     {
-        "image": "assets/img/projects/project3.jpg",
+        "image": "assets/img/projects/project5.jpg",
         "title": "웹스크래핑_3",
         "description": "핸드볼 경기 결과 웹 크롤링",
         "link": "https://drive.google.com/file/d/1DEcEwoGUbiPYWtKsZK_tRAZ7lMqG4W-K/view?usp=sharing"
     },
     {
-        "image": "assets/img/projects/project4.jpg",
+        "image": "assets/img/projects/project6.jpg",
         "title": "웹스크래핑_4",
         "description": "메이플 스토리 게시판 웹 크롤링",
         "link": "https://colab.research.google.com/drive/1i7BI0cs5iV962JK9D3UInf3f8H1Ts9P5?authuser=1"
-    },
-    {
-        "image": "assets/img/projects/project5.jpg",
-        "title": "My Title 05",
-        "description": "My Description 05",
-        "link": "#"
-    },
-    {
-        "image": "assets/img/projects/project6.jpg",
-        "title": "My Title 06",
-        "description": "My Description 06",
-        "link": "#"
     }
+    
 ]
